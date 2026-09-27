@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kiaanbhatta.github.io/bipin-builders-website/sitemap.xml
