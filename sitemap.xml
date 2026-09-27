@@ -6,32 +6,32 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>bipin-builders-website/#about</loc>
+    <loc>https://bipin-builders-website/#about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>bipin-builders-website/#services</loc>
+    <loc>https://bipin-builders-website/#services</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kiaanbhatta.github.io/bipin-builders-website/#projects</loc>
+    <loc>https://bipin-builders-website/#projects</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kiaanbhatta.github.io/bipin-builders-website/#team</loc>
+    <loc>https://bipin-builders-website/#team</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://kiaanbhatta.github.io/bipin-builders-website/#contact</loc>
+    <loc>https://bipin-builders-website/#contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kiaanbhatta.github.io/bipin-builders-website/#quote</loc>
+    <loc>https://bipin-builders-website/#quote</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
